@@ -16,12 +16,12 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec001_000.yaml, hash: 'sha256:92eb311fec3aca224e5ee7b1765d072b6b364e17a09b02da57e5e4bc65601b5a'}
+  - {seq: 0, filename: KR3ec001_000.yaml, hash: 'sha256:6581fb4f824710d85399c48ff7520d50b4cef1a605ddfd59b570422a970ca4bf'}
   - {seq: 1, filename: KR3ec001_001.yaml, hash: 'sha256:241fad950954f4e26729785e20e19a840af7075530eda0b95dfefc70e133ac9a'}
   - {seq: 2, filename: KR3ec001_002.yaml, hash: 'sha256:d6dc254635aea31247f0806f4d96b0ecb7711d204ec32696b2307f62db589a94'}
   - {seq: 3, filename: KR3ec001_003.yaml, hash: 'sha256:23340c39eb20678c6d593fe509f689204a158944f79899a22a91692c9b289e4e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec001_000.markers.yaml, hash: 'sha256:4e49eafdebdb43246e0fdd9f4596810f69d71a9987d8b707fbb53decf79e5b88'}
+  - {seq: 0, role: markers, filename: assets/KR3ec001_000.markers.yaml, hash: 'sha256:e2095861c3edb2fb955c73d567cf2eeb871d3c94bcb42929f66f85b74364026b'}
   - {seq: 1, role: markers, filename: assets/KR3ec001_001.markers.yaml, hash: 'sha256:732d0566c9d6b2955d5dbdc1dc8e54b4d8f7c9b06593b9682644fcf59c51d2a4'}
   - {seq: 2, role: markers, filename: assets/KR3ec001_002.markers.yaml, hash: 'sha256:825b33244619e44531fd5ba321c6eae90e0375c9dcacbd38f9cdf1d217835d4a'}
   - {seq: 3, role: markers, filename: assets/KR3ec001_003.markers.yaml, hash: 'sha256:f864c2b1133ff2131dc73d6352759863bdcf483027039c1c854457aabe0d3ee0'}
@@ -30,7 +30,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 774
   label: 邵序
@@ -40,7 +40,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 774
     - 1469
   label: 張序
@@ -50,7 +50,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1469
     - 2820
   label: 孫序
@@ -60,7 +60,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 2820
     - 3443
   label: 周序
@@ -3926,7 +3926,7 @@ table_of_contents:
   label: 米中部
   type: section
   level: 3
-hash: sha256:6a266282159a018663f43e0d8461c42ce990b2364c226ea0c27505b6584a4a29
+hash: sha256:302a4ec512bdd6833656e14465d1c0b0fb12562456c12d9d051c247ebf8f616a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

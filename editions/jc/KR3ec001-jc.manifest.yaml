@@ -16,12 +16,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ec001_000-jc.yaml, hash: 'sha256:cbee42095c8155475d0e8fb7f12cfb42c225f0661776add9e47a35649c69b0e2'}
+  - {seq: 0, filename: KR3ec001_000-jc.yaml, hash: 'sha256:920102b98f990805e4694337f509c66b0f67d16f01b609fb249416b16fcb2dc9'}
   - {seq: 1, filename: KR3ec001_001-jc.yaml, hash: 'sha256:64445c3d5236b334b374637d91292a947c0f15a156a87a409189664a9c4ff402'}
   - {seq: 2, filename: KR3ec001_002-jc.yaml, hash: 'sha256:85d1cccdb4401c427dde7997bb1cd1c9f54134439ec48055c82e748e4afff8ab'}
   - {seq: 3, filename: KR3ec001_003-jc.yaml, hash: 'sha256:bc6bc877bc6480bed897b9c9fbcb2082a9a5e3699014f2399bc0622f44bf25f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec001_000-jc.markers.yaml, hash: 'sha256:c725bd234c375e74c462200d4bd2619de2831ea448d76861f320a58c1ed85722'}
+  - {seq: 0, role: markers, filename: assets/KR3ec001_000-jc.markers.yaml, hash: 'sha256:e11cb00fced12c4690c359b69ccaabe60d5c3519ad3c5f51e256bb8cefee0417'}
   - {seq: 1, role: markers, filename: assets/KR3ec001_001-jc.markers.yaml, hash: 'sha256:f903d2eb2ec43b2a4e486deabef5b6c413175b783270c87aafa8fbd58c9e37a9'}
   - {seq: 2, role: markers, filename: assets/KR3ec001_002-jc.markers.yaml, hash: 'sha256:18cd82dc69bdff29136c51659f2e90a45a6dd183c2decb18fa0c4ff3b206b214'}
   - {seq: 3, role: markers, filename: assets/KR3ec001_003-jc.markers.yaml, hash: 'sha256:386cf0f7a7086af5d6dcbe9d58a171ef5e51cdf27829cb2842fe922aff64814e'}
@@ -30,7 +30,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 774
   label: 邵序
@@ -40,7 +40,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 774
     - 1469
   label: 張序
@@ -50,7 +50,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1469
     - 2820
   label: 孫序
@@ -60,7 +60,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec001_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 2820
     - 3443
   label: 周序
@@ -3926,4 +3926,4 @@ table_of_contents:
   label: 米中部
   type: section
   level: 3
-hash: sha256:0a985f2bb26626b0247fcbcc7df5a1dca6425b72fa71ca491fdf019650984377
+hash: sha256:5fe8b1e41b669c573d5719f2e87b126a06f9686f46ece34706027b582051f97e
